@@ -1,10 +1,12 @@
 cd dists/stable
 cat > Release <<EOF
-Origin: Quemos
-Label: Quemos Repo
+Origin: QuemOS
+Label: QuemOS Repo
 Suite: stable
 Codename: stable
-Architectures: amd64
+Version: 1.0
+Architectures: amd64 i386 all
 Components: main
-Description: Quemos custom Debian repository
+Description: QuemOS Custom Repository
+Date: $(date -Ru)
 EOF
