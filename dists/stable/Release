@@ -1,9 +1,10 @@
-Origin: QuemOS
-Label: QuemOS Repo
+cd dists/stable
+cat > Release <<EOF
+Origin: Quemos
+Label: Quemos Repo
 Suite: stable
 Codename: stable
-Version: 1.0
 Architectures: amd64
 Components: main
-Description: QuemOS Custom Repository
-Date: Sun, 05 Oct 2025 09:27:00 UTC
+Description: Quemos custom Debian repository
+EOF
