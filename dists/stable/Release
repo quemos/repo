@@ -3,13 +3,15 @@ Label: QuemOS Repo
 Suite: stable
 Codename: stable
 Version: 1.0
-Architectures: amd64
+Architectures: amd64 i386
 Components: main
 Description: QuemOS Custom Repository
-Date: Sun, 05 Oct 2025 13:20:00 UTC
+Date: Sun, 05 Oct 2025 10:34:00 UTC
 
 MD5Sum:
  4cc93677f197992054aaa0829a7d0521  47213 dists/stable/main/binary-amd64/Packages.gz
+ 07b4d4f12edc0d612c6d789913aedf86  0 dists/stable/main/binary-i386/Packages.gz
 
 SHA256:
  3d4f790c372c34e9b7b5113853905fe1367ea42ac64a1a46b1e1cf8ba41813f5  47213 dists/stable/main/binary-amd64/Packages.gz
+ 0e6b6540fa509136e41e0a382d667c79c16890ea992fe614c38395f3497fcbd3  0 dists/stable/main/binary-i386/Packages.gz
