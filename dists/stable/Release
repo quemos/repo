@@ -1,4 +1,13 @@
+Origin: QuemOS
+Label: QuemOS Repo
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: QuemOS Custom Debian Repository
 Date: Sun, 12 Oct 2025 00:29:36 +0000
+
 MD5Sum:
  6803f1776fe457982e6753769ced2e5d               38 Release
  0b13fc2d5c146d66edb5b6a6f4606ecc             1232 main/binary-amd64/Packages
