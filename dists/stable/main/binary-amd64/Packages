@@ -1,23 +1,8 @@
-Package: quemos-theme
-Version: 1.0
-Architecture: amd64
-Maintainer: QuemOS
-Installed-Size: 66518
-Depends: libc6, quemos-theme-2
-Filename: pool/main/m/quemos-theme/quemos-theme_1.0_amd64.deb
-Size: 49451786
-MD5sum: fb21d88d185d3c3bf8426defaf2e292a
-SHA1: 77c172a3348d63a7794063fa4d2a64d1569486b8
-SHA256: 00e3aea350b806386369a36ceab82ffbebf50e4138c71833522eccc3ca6c27bd
-Section: utils
-Priority: optional
-Homepage: https://github.com/quemos
-Description: QuemOS Theme
-  QuemOS Theme
-
 Package: quemos-theme-2
-Version: 1.0
 Architecture: amd64
+Version: 1.0
+Priority: optional
+Section: utils
 Maintainer: QuemOS
 Installed-Size: 77945
 Depends: libc6, quemos-theme
@@ -26,8 +11,25 @@ Size: 51196362
 MD5sum: 180017d7e3a4cfcdb88320c249056406
 SHA1: 32095de21c95df0eb25adb5b2b20255c2017e2a3
 SHA256: 9404099a7c14f9c054f2206be45e623bd1a205822e05a1f30454147ce2cec6d4
-Section: utils
+SHA512: 3401c644f17f4dabec538a40166c226efdcf2764956906aba2ae5e8f61328d5d7601605860dd33b3034fb83ad7ca86dd11c30b5504b4ed1ef2ed30a5fbd08455
+Homepage: https://github.com/quemos
+Description: QuemOS Theme
+  QuemOS Theme
+
+Package: quemos-theme
+Architecture: amd64
+Version: 1.0
 Priority: optional
+Section: utils
+Maintainer: QuemOS
+Installed-Size: 66518
+Depends: libc6, quemos-theme-2
+Filename: pool/main/m/quemos-theme/quemos-theme_1.0_amd64.deb
+Size: 49451786
+MD5sum: fb21d88d185d3c3bf8426defaf2e292a
+SHA1: 77c172a3348d63a7794063fa4d2a64d1569486b8
+SHA256: 00e3aea350b806386369a36ceab82ffbebf50e4138c71833522eccc3ca6c27bd
+SHA512: e17b37478a65084d1c7f98f1aca0b993aa25623aa26b844db83857b1d9a5516a171beaf058cb6df1d199d696ef6ae9948d857d8dbd8cc277ae8f373febdf2e65
 Homepage: https://github.com/quemos
 Description: QuemOS Theme
   QuemOS Theme
