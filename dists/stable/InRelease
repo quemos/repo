@@ -1,3 +1,16 @@
+Origin: QuemOS
+Label: QuemOS Repo
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 i386
+Components: main
+Description: QuemOS Custom Debian Repository
+Date: Sun, 12 Oct 2025 00:29:36 +0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Date: Thu, 16 Oct 2025 21:58:00 +0000
 MD5Sum:
  580fb22cb5f31fb70891b945bdc732ab               38 Release
@@ -23,3 +36,17 @@ SHA512:
  ea2eb200d093048c0973761b08d964c0fd2bf2b55e0230ee6691ff9bdc1869e738f81c52e9109bf02c2c0d4615c3df31d3b43a0f530bb4f2f51ac3e521cf3a3d              477 main/binary-amd64/Packages.gz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-i386/Packages
  fd9a0df2f82d29673b91f1c911bc41996394eeef7d1083e304e19fade143c00c3dce978d85526e65777bba0e559409c0149e290373d260d4688113a4cfb272d1               29 main/binary-i386/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEJF8lS0QJVV/iFSEF/T12QxiEWeYFAmjxam0ACgkQ/T12QxiE
+WeY6iQv/dh3boImvzon+kppUZwVdjzcWY1EzHc3oJzenfW+ps2RzNyDizw1mAKJ0
+bXwIjz1s2dlD220HncfpcD6HbzPaI+rHxs5BucfdyOUNKZejyyhs7QfIJL9oeFPq
+eXcU59tbFghR2a/TEEOEPuiMUMw/7fCO7Na80gdZUufFE1R4iQ87zIoL6btFCHiK
+29YfQld1ODIkqJZlMDnOQ4yobICXph6arn1BNVDJgjV205sK/u3ushCmaTVQvuag
+IxgrXysblkyvfG7CkoJHCCOaAAhv4WUQIqa3Ee3RS/lyq8QQr1ODD5xPb/XFkzSh
+C8MUcP0LbgmAcu+Ew40TnWrd1UT6MVWusEGEA4lM3VPf8A8a4MF8xRJr4PbXrdpj
+4YsawlgCYQm/pksF7WxdgffVLd61H4E/koLmwsJNgep1I99R8n32TarTPYMP+muI
+GJNRnuCs1wYwoFdvTJEAhfwBXh8vjI4OwfHDBWfkvp/bWKh4k9iFIBOm7JI04eWz
+oytl5aZo
+=Pz9i
+-----END PGP SIGNATURE-----
