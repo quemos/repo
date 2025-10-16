@@ -1,18 +1,50 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-
+Architectures: amd64 i386
+Codename: stable
+Components: main
+Date: Thu, 16 Oct 2025 22:06:31 +0000
+Description: QuemOS Custom Debian Repository
+Label: QuemOS Repo
+Origin: QuemOS
+Suite: stable
+Version: 1.0
+MD5Sum:
+ b0a56c0098449327fd59837cd094dce0              204 Release
+ 49c241df774346295447dcc3c8f7f2b2              958 main/binary-amd64/Packages
+ ae387323d95340cf2d455227b2d44511              477 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-i386/Packages
+ 2f06e5f7deb469ec28661bb8fe51f513               29 main/binary-i386/Packages.gz
+SHA1:
+ b7c7544a344c96b3d5fecbccb0fc36be0596fcf7              204 Release
+ 2eb3528d17eb258a10168fdb65bc816f2f352f39              958 main/binary-amd64/Packages
+ 8fa4ed7057ef8bdecd175ee9660741c5d3e79a98              477 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-i386/Packages
+ eb2a3dd6d27d4ee3b1f768ad53e97a3fdbfaa730               29 main/binary-i386/Packages.gz
+SHA256:
+ 59d3b2da2c8cd495da64b23581a887a6bc4c7a3e7d4df14970c0afef05c02cb2              204 Release
+ 9fde2d0bc37ce212d8388470dc87a47ba99720e70945a4ff49a0909849945860              958 main/binary-amd64/Packages
+ fb02a0c1163c902cf9c8e1fe3d63b67d5b78780dbf740b5e49d67b829c7c9b18              477 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-i386/Packages
+ 2fa64ea52a1e4cce3f32ba4264c8ed3ce6f1728c59039dbb8d66d20196850088               29 main/binary-i386/Packages.gz
+SHA512:
+ d886b9508e531899b45bc94dd3f1954808c8b51e821251a59942546ed7a382ad8a027d78ae39d4cd007584ffda1322682a720b80bbdb2fe4be475d9f292cd393              204 Release
+ 047f4eb7f7e2a2dd77aa773af4041c4cfe8d85bb9f397d0ab0dc533ae9939c079e0ce719082c43159ea976e8d6b6d34b8136d4a9c4090b24e5ad1cc40031352a              958 main/binary-amd64/Packages
+ ea2eb200d093048c0973761b08d964c0fd2bf2b55e0230ee6691ff9bdc1869e738f81c52e9109bf02c2c0d4615c3df31d3b43a0f530bb4f2f51ac3e521cf3a3d              477 main/binary-amd64/Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-i386/Packages
+ fd9a0df2f82d29673b91f1c911bc41996394eeef7d1083e304e19fade143c00c3dce978d85526e65777bba0e559409c0149e290373d260d4688113a4cfb272d1               29 main/binary-i386/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEJF8lS0QJVV/iFSEF/T12QxiEWeYFAmjxa3UACgkQ/T12QxiE
-WebTsgv/ZubR7DCK9V0TyfgOQ/dKvHGGHePueBu4ylxaXLF5KuVDAkdCq2KmUG+1
-Xd0WDijS52ffyMKXQQdW0p6qy/Lj3Kv0xs5ueYQjyhwFpy01KCf+jprfQF9dLNzM
-3fUSJ3CFHwJAXoZGKwCTVKJZrYdr/NnZrt+peWmGq2kKDnFyWwZKsowDtaVhr5X+
-0rpfoF7iWYGvH/PyJs4obAmGo2BmafbZIqEwPUFapIIPidO7pvOMGg4w5AcHzxrq
-5g7ANUla1UaNk845uZkluLdIIeszZe0S8N9pSujownPyGAF65B8+6d0GAyyR5e59
-HyNZMYyfbVr+McywMU7NSh3uOCu6Pt8nMQV8JctTO6hZbTGtcLSUDXTb+sSMOkdI
-dtUwA0D9H21bxb2dVDQdR5cc4gGnHn2XId+iATkNuFttdLbY4EDn3QCwzTYHH3CG
-RzuOyekxssU+weK2akofEyDHLX+zBX3rLBaGTA9UaGwGr+AETU2vB21nzAR9AEco
-3XW72fII
-=1019
+iQGzBAEBCgAdFiEEJF8lS0QJVV/iFSEF/T12QxiEWeYFAmjxbG4ACgkQ/T12QxiE
+WeYxowv/WRJXPTfWpMb2PCPS44QfBAzOuJfOYv9bbKVoGLairW+3Jbm9Z7R3rqXQ
+wf10wEzXzQqCY88Arx/0SfOTh4i6ZFQZRLMXNHLvdwzYE1G/ZP/YeyG19nYJ5IMr
+EYRZCUBYUk030NPafPqhg9P0eKAGxO+059xeJRWpq1PrGJnbLyBqkaOeCNdDo3Hz
+9p6ePpfoJm36qcKemVHX4YDKQcY5vBpjzvy3FRGW3q7wZS+Z7USm64ZfiwuuhXI7
+qv9yVAsekOG7bK0BXhqy7r0RpSMcuxICCkLif2tmcWTblqUg/zWDT29oKx5xp/ti
+loSQGzux07BNeE3tVudy+ysxOz6CnG7kWBEYGJevXCI8N8Qt6xvw3AxOqWntHPsU
+GDPvrk+CLzv0gScNHJLsnNZ1mNZCePjimlOanSulI9iAwgdZ9iTGyPXv9SX3gp9n
+sjhsZ7XqPThGfn2oonVWlgdZBF5kijIpTmZUla4f5mXML4FK9Bolk+5rO+ZJiiKi
+Jr7hxXG1
+=C0M5
 -----END PGP SIGNATURE-----
