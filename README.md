@@ -19,9 +19,9 @@ apt-ftparchive -c=apt-ftparchive.conf release dists/stable > dists/stable/Releas
 ```
 
 ```
-gpg --clearsign -u EA6CF030909C9B9 -o dists/stable/InRelease dists/stable/Release
+gpg --clearsign -u FD3D7643188459E6 -o dists/stable/InRelease dists/stable/Release
 ```
 
 ```
-gpg -abs -u EA6CF030909C9B9 -o dists/stable/Release.gpg dists/stable/Release
+gpg -abs -u FD3D7643188459E6 -o dists/stable/Release.gpg dists/stable/Release
 ```
