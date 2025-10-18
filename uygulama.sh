@@ -5,14 +5,12 @@
 set -e
 
 # === KULLANICI AYARLARI ===
-REPO_DIR="$(pwd)"     # 🔹 Depo kökü
 DIST="stable"
 COMPONENT="main"
 ARCH="amd64"
 GPG_KEY_ID="FD3D7643188459E6"         # 🔹 Kendi GPG anahtar kimliğini buraya yaz
 
 echo "=== 🔄 QuemOS Repo Güncelleyici ==="
-echo "Repo dizini: $REPO_DIR"
 echo
 
 # === 1️⃣ Packages dosyaları oluştur ===
