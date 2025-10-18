@@ -5,7 +5,7 @@
 set -e
 
 # === KULLANICI AYARLARI ===
-REPO_DIR="/home/user/GitHub/repo"     # 🔹 Depo kökü
+REPO_DIR="$(pwd)"     # 🔹 Depo kökü
 DIST="stable"
 COMPONENT="main"
 ARCH="amd64"

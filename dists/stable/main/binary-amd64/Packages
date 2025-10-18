@@ -40,14 +40,14 @@ Version: 1.0
 Priority: optional
 Section: utils
 Maintainer: QuemOS
-Installed-Size: 68492
+Installed-Size: 76441
 Depends: libc6, quemos-theme-2
 Filename: /home/user/GitHub/repo/pool/main/m/quemos-theme/quemos-theme_1.0_amd64.deb
-Size: 49276876
-MD5sum: 0ed2f1d6d7e3937e5f058a8ff610bffa
-SHA1: 6351ad754c2c746e5938fdb0a7ff0e19b9f8d16b
-SHA256: 2df35f579b6f8a52484dbeb93270041219d559dad41db098ae057f81ddea7358
-SHA512: a23a670e9f8a832e460e9acdc2851cc245ff98bab31783f03bde331571db3f68059d8c61ac9470e9df84552d16f2aaf9f4f1c9be8e0c8230384a62e101fca92e
+Size: 51529124
+MD5sum: 70f91fc95d659f85a12b67db7d9f1a75
+SHA1: d0a3bb51f83bad314fe17b8bf25f1728c0b4dca6
+SHA256: 5aec98eddaa09461d1ad6a539c949825c23b2250890b1fc72ae8266e0650263b
+SHA512: ba023fc275f85e8d3d2f90dff43cea6baf6d33bded499b5c4876a1aea383cd28b55d3ee3665288087ee3018961b434586be4593bf06df440a454c165c54a72e4
 Homepage: https://github.com/quemos
 Description: QuemOS Theme
   QuemOS Theme
