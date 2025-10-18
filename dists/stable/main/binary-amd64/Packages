@@ -5,10 +5,10 @@ Maintainer: Your Name <you@example.org>
 Installed-Size: 15
 Depends: libc6, pciutils, usbutils
 Filename: pool/main/m/quemos-drivermanager/quemos-drivermanager_1.0_amd64.deb
-Size: 3172
-MD5sum: 2d1c99e28877981722b07e2ff6f0a26f
-SHA1: f27ed7ba3797b8583a4f385487d6f625febefe64
-SHA256: b47b3445a2fba5b2a75fb989aa21fb219b2648dd97d8e89c4faadb443386e717
+Size: 3244
+MD5sum: acef0e57eb3591071c01e4db95353f77
+SHA1: b585f03c478d44169a99c4873123b3496ca5a04e
+SHA256: 2f7b60f40aaebf095367ad8390639bf07d4e9a4bb572b34a48724e52b47efc43
 Section: utils
 Priority: optional
 Homepage: https://github.com/quemos
