@@ -19,13 +19,13 @@ Package: quemos-theme
 Version: 1.0
 Architecture: amd64
 Maintainer: QuemOS
-Installed-Size: 76448
+Installed-Size: 89657
 Depends: libc6, quemos-theme-2
 Filename: pool/main/m/quemos-theme/quemos-theme_1.0_amd64.deb
-Size: 51530564
-MD5sum: 981d057f1989481b80d45c591431c524
-SHA1: 572ef31b96a58359816941916ef3c9ec21153db1
-SHA256: 5b8a2c7a7f45b2508ef12879a5bf9116cfe9e852d3bebce03fa697f28c35e1f2
+Size: 56500364
+MD5sum: 17e85e31211bc0d0a7e95bdbe8489691
+SHA1: 64340861321296462550badcea0424020727b78f
+SHA256: 343807eab5cf1c7f7bcb3ecd34ee99833a9f887812ed30d16a0eb3571aef6cc6
 Section: utils
 Priority: optional
 Homepage: https://github.com/quemos
