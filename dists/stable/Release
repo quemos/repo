@@ -1,33 +1,37 @@
 Architectures: amd64 i386
 Codename: stable
 Components: main
-Date: Thu, 16 Oct 2025 22:06:31 +0000
+Date: Sat, 18 Oct 2025 11:57:17 +0000
 Description: QuemOS Custom Debian Repository
 Label: QuemOS Repo
 Origin: QuemOS
 Suite: stable
 Version: 1.0
 MD5Sum:
- b0a56c0098449327fd59837cd094dce0              204 Release
- 49c241df774346295447dcc3c8f7f2b2              958 main/binary-amd64/Packages
- ae387323d95340cf2d455227b2d44511              477 main/binary-amd64/Packages.gz
+ 0786bc41c3b69b37deb507830b02e487              204 Release
+ da74f7f316561164a187addd60c008bf             1973 main/binary-amd64/Packages
+ 24f8652d102c4a158dc78052637cfbe5              905 main/binary-amd64/Packages.gz
+ 19bd3fc44298f7b84d08da2c247a6c0b              936 main/binary-amd64/Packages.xz
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-i386/Packages
  2f06e5f7deb469ec28661bb8fe51f513               29 main/binary-i386/Packages.gz
 SHA1:
- b7c7544a344c96b3d5fecbccb0fc36be0596fcf7              204 Release
- 2eb3528d17eb258a10168fdb65bc816f2f352f39              958 main/binary-amd64/Packages
- 8fa4ed7057ef8bdecd175ee9660741c5d3e79a98              477 main/binary-amd64/Packages.gz
+ 1397893eba13cdd514f11299d960410d72fad437              204 Release
+ c1c2013f1e76b9cab324d446506d278018811a17             1973 main/binary-amd64/Packages
+ f050b6c69be99366ec9631d19db2b83789be564b              905 main/binary-amd64/Packages.gz
+ fa13104734ac610eb1673d751ae35b9fc55e0103              936 main/binary-amd64/Packages.xz
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-i386/Packages
  eb2a3dd6d27d4ee3b1f768ad53e97a3fdbfaa730               29 main/binary-i386/Packages.gz
 SHA256:
- 59d3b2da2c8cd495da64b23581a887a6bc4c7a3e7d4df14970c0afef05c02cb2              204 Release
- 9fde2d0bc37ce212d8388470dc87a47ba99720e70945a4ff49a0909849945860              958 main/binary-amd64/Packages
- fb02a0c1163c902cf9c8e1fe3d63b67d5b78780dbf740b5e49d67b829c7c9b18              477 main/binary-amd64/Packages.gz
+ 8441185eb9046dc0878c751dac7afac0a599c486571399866066b36d8c7bd4a9              204 Release
+ 319e9c954bd87efe8a3d4c70cdd49f2f5b24c7a4026029d9f43be162cc3ff929             1973 main/binary-amd64/Packages
+ c3567f7a321f20277c625aadb45ec6158cfd8640bc0ff522252e181853cd48b1              905 main/binary-amd64/Packages.gz
+ 18457365a3d27ccce705bb598301f805a0fc4b2701ed474aa24f9b426a894b32              936 main/binary-amd64/Packages.xz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-i386/Packages
  2fa64ea52a1e4cce3f32ba4264c8ed3ce6f1728c59039dbb8d66d20196850088               29 main/binary-i386/Packages.gz
 SHA512:
- d886b9508e531899b45bc94dd3f1954808c8b51e821251a59942546ed7a382ad8a027d78ae39d4cd007584ffda1322682a720b80bbdb2fe4be475d9f292cd393              204 Release
- 047f4eb7f7e2a2dd77aa773af4041c4cfe8d85bb9f397d0ab0dc533ae9939c079e0ce719082c43159ea976e8d6b6d34b8136d4a9c4090b24e5ad1cc40031352a              958 main/binary-amd64/Packages
- ea2eb200d093048c0973761b08d964c0fd2bf2b55e0230ee6691ff9bdc1869e738f81c52e9109bf02c2c0d4615c3df31d3b43a0f530bb4f2f51ac3e521cf3a3d              477 main/binary-amd64/Packages.gz
+ b0aeb2edfdab5b6e5261743a7c766da7339a1f95907886dd126c10c06fb064ccae9ee752333bd51812651de33cb8f7acda888c5c100ba2b498dd3905401756cb              204 Release
+ 56b93ff051d9eca6468daf4d8e7186f5ce33eab5eff36bd8250a43a5f2411133ed521936f24e1bcdbd62d566f42e4ba1929e9c0a766e6fe62d678c7eaa94d318             1973 main/binary-amd64/Packages
+ d78f77b5c85f8280a4121b64c3ac5e77bd7926d5968cfefcacc96f9a577c25d6bc1c0702d009e4e9e380668d4e2c6c15ef1a4b6eeac1a96580322ebcc4f7d456              905 main/binary-amd64/Packages.gz
+ 1f1ed611a697af65c6ea7ac40bd648260fca95e6cde6ee8d55b2d56eaf1963f007b5d076fe08a80cba5e6a45f1823bf5670d125b132b12c03af2c8be8a9146c5              936 main/binary-amd64/Packages.xz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-i386/Packages
  fd9a0df2f82d29673b91f1c911bc41996394eeef7d1083e304e19fade143c00c3dce978d85526e65777bba0e559409c0149e290373d260d4688113a4cfb272d1               29 main/binary-i386/Packages.gz

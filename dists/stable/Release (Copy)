@@ -1,9 +1,0 @@
-Origin: QuemOS
-Label: QuemOS Repo
-Suite: stable
-Codename: stable
-Version: 1.0
-Architectures: amd64 i386
-Components: main
-Description: QuemOS Custom Debian Repository
-Date: Sun, 12 Oct 2025 00:29:36 +0000
